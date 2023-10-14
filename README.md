@@ -7,5 +7,7 @@
 
 markdown 語法
 
+無法同步的技巧，在終端機 git push --force
+
 ### 次次標題
 
