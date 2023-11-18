@@ -1,0 +1,9 @@
+# 執行時，可以輸入pip install -r requirements.txt
+# 可以檢查環境有無套件，針對沒有的做新增，如果有的做更新。
+
+pyInputPlus
+requests
+pandas
+fake-useragent
+openpyxl
+
