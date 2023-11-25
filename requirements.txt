@@ -6,4 +6,7 @@ requests
 pandas
 fake-useragent
 openpyxl
-
+SQLAlchemy
+psycopg2
+numpy
+Jinja2
